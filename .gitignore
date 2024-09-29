@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# .gitignore
+.env
+# Ignore service account JSON keys
+sayahdeen-c9036ab5f662.json
